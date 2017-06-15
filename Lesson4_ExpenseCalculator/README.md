@@ -16,8 +16,7 @@ using the Id and Name tags to identify specific variables.
 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://smk16f.github.io/lesson4_javascript/
 
 ### Lessons Learned in the Assignment:
 1. How to implement getElementById to effectively call up Id, and Name tags.
